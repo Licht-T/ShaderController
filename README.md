@@ -1,13 +1,17 @@
 ShaderController
 ======================
 
+Description
+------
+A simple GLSL shader program controller.
+
 Requirement
 ------
 * [JOGL](https://jogamp.org/jogl/www/)
 
 Usage
 ------
-#### 1. Create a object ####
+#### 1. Create an object ####
     shader = new ShaderController(gl //GL2 );
 
 #### 2. Set codes ####
